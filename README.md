@@ -37,8 +37,3 @@ Este proyecto es el resultado del Challenge Alura, que consiste en crear un encr
 - **GitHub:** [VictorLeiva24](https://github.com/VictorLeiva24)
 - **Discord:** vick2410
 
-## Insignia por completar este challenge
-
-<div align="center">
-  <img src="https://github.com/GVL0001/Challenge-encriptador/blob/main/img/insignia.png"  />
-</div>
